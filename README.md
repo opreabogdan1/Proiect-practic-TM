@@ -6,8 +6,46 @@
 | 18.03.2023 | v1.1| Ioana Popescu | Test results for functional testing |
 | 25.03.2023 | v1.2| Maria Popescu | More details added for Test Implementation  |
 
-pentru text bolduit: **bold text**.
+1. Introduction
 
-pentru text italic: *text*
+1.1 Project objective
 
-pentru text italic si bold: ***text***
+1.2 Functionalities in scope
+
+1.3 Functionalities and tests out of scope
+
+2. Test process
+
+2.1 Test planning
+
+2.2 Test analysis
+
+2.3 Test design
+
+2.4 Test implementation
+
+2.5 Test execution
+
+2.6 Test closure
+
+2.7 Test monitoring and control
+
+3. Test deliverables
+
+3.1 Test plan
+
+3.2 Test conditions
+
+3.3 Test cases
+
+3.4 Daily test summary reports
+
+3.5 Traceability matrix
+
+3.6 Test case results
+
+3.7 Bugs report
+
+3.8 Test completion report
+
+
