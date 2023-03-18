@@ -58,4 +58,11 @@
 
 Here are the link details [Test cases details](https://github.com/opreabogdan1/Proiect-practic-TM/commit/5e2a6635ac2e3135264022e4d3777b5716ea874b)
 
+### Entry criteria:
+
+- functional specifications defined 
+- roles needed for the project are allocated 
+- initial project risks were detected and mitigated
+
+
 
