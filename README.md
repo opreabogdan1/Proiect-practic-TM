@@ -1,5 +1,8 @@
-# Proiect-practic-TM
-## Revision history
+#  OrangeHRM Project
+
+## -Test plan-
+
+### Revision history
 | Date | Version | Authors | Comments |
 | :-----: | :---: | :---: |:---: |
 | 11.03.2023 | v1.1| Oprea Bogdan Ștefan | Draft plan|
