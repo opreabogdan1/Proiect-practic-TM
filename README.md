@@ -1,6 +1,5 @@
-#  OrangeHRM Project
-# <h1 align="center">Proiect-Practic-Testare Manuala<h1>
-## -Test plan-
+# <h1 align="center">OrangeHRM Project<h1>
+## <h1 align="center">-Test plan-<h1>
 
 ### Revision history
 | Date | Version | Authors | Comments |
