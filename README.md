@@ -1,5 +1,5 @@
 #  OrangeHRM Project
-
+# <h1 align="center">Proiect-Practic-Testare Manuala<h1>
 ## -Test plan-
 
 ### Revision history
