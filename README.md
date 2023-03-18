@@ -1,5 +1,5 @@
-# <h1 align="center">OrangeHRM Project<h1>
-## <h1 align="center">-Test plan-<h1>
+ <h1 align="center">OrangeHRM Project<h1>
+ <h2 align="center">-Test plan-<h2>
 
 ### Revision history
 | Date | Version | Authors | Comments |
