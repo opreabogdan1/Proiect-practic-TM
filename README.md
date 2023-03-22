@@ -90,30 +90,43 @@
   
 #### Entry criteria:
 
-- functional specifications defined; 
-- roles needed for the project are allocated; 
-- initial project risks were detected and mitigated;
+- Functional specifications defined; 
+- Roles needed for the project are allocated; 
+- Initial project risks were detected and mitigated;
   
 #### Exit criteria:
   
-- all test cases have been executed; 
-- the number of unresolved bugs is insignificant or have low priority; 
-- all resolved bugs have been re-tested and closed by QA team; 
-- deadline was reached; 
-- no detected major risks remained un-mitigated. 
+- All test cases have been executed; 
+- The number of unresolved bugs is insignificant or have low priority; 
+- All resolved bugs have been re-tested and closed by QA team; 
+- Deadline was reached; 
+- No detected major risks remained un-mitigated. 
   
 #### Risks:
   
 Project risks: 
   
-- lack of experience of the QA team; 
-- only one QA in the QA team; 
-- unavailability of the test environment; 
-- short deadline of Zephyr Squad and Jira tools.
+- Lack of experience of the QA team; 
+- Only one QA in the QA team; 
+- Unavailability of the test environment; 
+- Short deadline of Zephyr Squad and Jira tools.
   
 Product risks:
   
-- validation constraints on the fields might might be too restrictive to the end user. 
+- Validation constraints on the fields might might be too restrictive to the end user. 
+
+### 2.2 Test analysis
+
+- Analyze business requirements to make sure that we have all the details for creating the test conditions; 
+- Write test conditions that will be tested in out test process.
+  
+### 2.3 Test design
+  
+- Functional test cases will be created in Zephyr Squad; 
+- GUI test cases will be created in Zephyr Squad;
+- API test cases will be created in Postman; 
+- The test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis. 
+
 
   
 
