@@ -88,6 +88,34 @@
 | QA Engineer |Bogdan Ştefan Oprea| 
 | Senior QA Engineer| Andreea Năstase|
   
+#### Entry criteria:
+
+- functional specifications defined; 
+- roles needed for the project are allocated; 
+- initial project risks were detected and mitigated;
+  
+#### Exit criteria:
+  
+- all test cases have been executed; 
+- the number of unresolved bugs is insignificant or have low priority; 
+- all resolved bugs have been re-tested and closed by QA team; 
+- deadline was reached; 
+- no detected major risks remained un-mitigated. 
+  
+#### Risks:
+  
+Project risks: 
+  
+- lack of experience of the QA team; 
+- only one QA in the QA team; 
+- unavailability of the test environment; 
+- short deadline of Zephyr Squad and Jira tools.
+  
+Product risks:
+  
+- validation constraints on the fields might might be too restrictive to the end user. 
+
+  
 
 
 
