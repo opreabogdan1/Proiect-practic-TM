@@ -50,7 +50,7 @@
 
     3.8 Test completion report
     
-## 1. Introduction
+   ## 1. Introduction
   
   This test plan describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for **OrangeHRM** browser application. 
   
@@ -73,6 +73,11 @@
   - Non-functional testing like stress, performance is beyond scope of this project;
   - No QA support for mobile application developed. Only web application will be tested;
   - Automation testing is beyond scope.
+  
+    ## 2. Test process
+    
+## 
+
 
 
 
