@@ -126,6 +126,15 @@ Product risks:
 - GUI test cases will be created in Zephyr Squad;
 - API test cases will be created in Postman; 
 - The test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis. 
+  
+### 2.4 Test implementation
+  
+Verify that the following elements are ready before the test execution phase:
+  - Test environment is up and running: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login; 
+  - Access to the test environment is given: ***username*** = Admin, ***password*** = admin123;
+  - Cycle summary was created and the test cases were added to the cycle summary; 
+  - Postman collections were created. 
+
 
 
   
