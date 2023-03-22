@@ -134,6 +134,23 @@ Verify that the following elements are ready before the test execution phase:
   - Access to the test environment is given: ***username*** = Admin, ***password*** = admin123;
   - Cycle summary was created and the test cases were added to the cycle summary; 
   - Postman collections were created. 
+  
+### 2.5 Test execution
+ 
+ - Test cases are executed on the create Cycle summary;
+ - Bugs are created based on the failed test cases;
+ - API test cases were executed;
+ - Full regression pack are executed.
+
+### 2.6 Test closure
+  
+ -  As the exit criteria were met and satisfied as mentioned in the 2.1 section, this feature is suggested to go live by the QA team. 
+  
+### 2.7 Test monitoring and control
+  
+ -  Generate periodic reports to check the project status: status for the test cases executed, status for the converge of the business requirements, etc.
+  
+ 
 
 
 
