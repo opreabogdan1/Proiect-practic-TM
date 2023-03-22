@@ -150,7 +150,35 @@ Verify that the following elements are ready before the test execution phase:
   
  -  Generate periodic reports to check the project status: status for the test cases executed, status for the converge of the business requirements, etc.
   
+    ## 3. Test deliverables
+  
+### 3.1 Test plan
+  
+### 3.2 Test conditions
+*screenshots cu test conditions din Jira
+  
+### 3.3 Test cases
+*screenshots cu test cases din Jira
+  
+### 3.4 Daily test summary report 
+*screenshots cu raportul generat zilnic din Jira 
+  
+### 3.5 Traceability matrix
+*screenshots cu matricea generate in Jira
+  
+### 3.6 Test case results
+*screenshots/pdf  cu rezultatele test case-urilor exportate din Jira
+  
+### 3.7 Bugs report
+*screenshots/pdf cu defectele exportate din Jira
+  
+### 3.8 Test completion report
+  
+### 3.9 Schedule
  
+Run functional test cases for Admin Job submenu     13.03.2023   Andreea Năstase  
+Run GUI testing for Admin Organization submenu      14.03.2023   Bogdan Ştefan Oprea
+
 
 
 
