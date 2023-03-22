@@ -76,9 +76,18 @@
   
     ## 2. Test process
     
-## 
+### 2.1 Test planning
+  
+#### Roles and responsabilities
+  
 
-
+| Software Developer | Tănase Ionuţ|
+  | :-----: | :---: |
+| Product Owner | Ioana Miruna Stroe| 
+| Product Manager |Marian Apostol| 
+| QA Engineer |Bogdan Ştefan Oprea| 
+| Senior QA Engineer| Andreea Năstase|
+  
 
 
 
