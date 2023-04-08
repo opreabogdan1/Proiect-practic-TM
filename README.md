@@ -178,6 +178,10 @@ Verify that the following elements are ready before the test execution phase:
  
 Run functional test cases for Admin Job submenu     13.03.2023   Andreea Năstase  
 Run GUI testing for Admin Organization submenu      14.03.2023   Bogdan Ştefan Oprea
+  
+  
+  
+  ![Screen user story](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Captur%C4%83%20de%20ecran%202023-04-08%20100925.png)
 
 
 
