@@ -182,6 +182,15 @@ Run GUI testing for Admin Organization submenu      14.03.2023   Bogdan Ştefan 
   
   
   ![Screen user story](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Captur%C4%83%20de%20ecran%202023-04-08%20100925.png)
+  
+  
+  
+  
+  
+  
+  
+  
+  Link catre fisier sau altceva [Test cases for user story x](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/OR-11.pdf)
 
 
 
