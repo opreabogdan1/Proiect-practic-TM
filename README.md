@@ -66,10 +66,10 @@
   
 ### 1.2 Functionalities in scope
   
-  - All features of ”Job Titles” and ”Pay Grades” module which were defined in software requirement specs need to be: functional testing, GUI testing, API testing.
+  - All features of the ”Job Titles” and ”Pay Grades” modules which were defined in software requirement specs need to be: functional testing, GUI testing, API testing.
   
 ### 1.3 Functionalities and tests out of scope
-  - All OrangeHRM features except ”Job Titles” and ”Pay Grades” module ;
+  - All OrangeHRM features except the ”Job Titles” and ”Pay Grades” modules ;
   - Non-functional testing like stress, performance is beyond scope of this project;
   - No QA support for mobile application developed. Only web application will be tested;
   - Automation testing is beyond scope.
