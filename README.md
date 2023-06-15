@@ -113,7 +113,7 @@ Project risks:
   
 Product risks:
   
-- Validation constraints on the fields might might be too restrictive to the end user. 
+- Validation constraints on the fields might be too restrictive to the end user. 
 
 ### 2.2 Test analysis
 
