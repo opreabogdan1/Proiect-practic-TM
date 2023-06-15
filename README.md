@@ -54,9 +54,9 @@
   
   This test plan describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for **OrangeHRM** browser application. 
   
-### 1.1 Project objectiv
+### 1.1 Project objective
   
-  The scope of the final project for ITF Manual & Automation Testing Course is to use all gained knowledge through the course and apply them in practice using a live application. 
+  The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice using a live application. 
   
   Application under test: https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList 
   
