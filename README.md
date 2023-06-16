@@ -122,7 +122,7 @@ Product risks:
   
 ### 2.3 Test design
   
-- Functional test cases will be created in Zephyr Squad (for more details see chapter 3.2); 
+- Functional test cases will be created in Zephyr Squad (for more details see chapter 3.3); 
 - GUI test cases will be created in Zephyr Squad;
 - API test cases will be created in Postman; 
 - The test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis. 
@@ -158,7 +158,7 @@ Verify that the following elements are ready before the test execution phase:
 ### 3.1 Test plan
   
 ### 3.2 Test conditions
-*screenshots cu test conditions din Jira
+The test conditions can be viewed here: [Test conditions](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/test%20conditions.xlsx)
   
 ### 3.3 Test cases
 *screenshots cu test cases din Jira
