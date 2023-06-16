@@ -166,7 +166,10 @@ The test conditions created for the ”Job Titles” and ”Pay Grades” module
   The test cases with steps can be accesed at this link: [Test cases](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Test%20cases%20Job%20Title%20%2B%20Pay%20Grade.pdf)
   
 ### 3.4 Daily test summary report 
-*screenshots cu raportul generat zilnic din Jira 
+  On April 30, 2023, the testing process began and 6 tests were performed, of which 4 were pass and 2 were fail. On May 2, 2023, 3 tests were run, of which 1 failed and 2 passed. On June 11, 6 tests were run, all of which were passed. The daily test summary report cand be seen below:
+ ![Screenshot_2](https://github.com/opreabogdan1/Proiect-practic-TM/assets/128214529/0355cdb0-f864-41d4-a94c-0d6cd589a7b7)
+  
+
   
 ### 3.5 Traceability matrix
 *screenshots cu matricea generate in Jira
