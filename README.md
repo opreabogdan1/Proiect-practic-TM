@@ -159,7 +159,7 @@ Verify that the following elements are ready before the test execution phase:
 ### 3.1 Test plan
   
 ### 3.2 Test conditions
-The test conditions can be viewed here: [Test conditions](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/test%20conditions.xlsx)
+The test conditions created for the ”Job Titles” and ”Pay Grades” modules can be viewed here: [Test conditions](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/test%20conditions.xlsx)
   
 ### 3.3 Test cases
  The test cases were created in Zephy Squad, based on the analysis of the specifications. The test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing. 
