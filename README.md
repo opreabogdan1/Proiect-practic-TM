@@ -162,7 +162,8 @@ Verify that the following elements are ready before the test execution phase:
 The test conditions can be viewed here: [Test conditions](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/test%20conditions.xlsx)
   
 ### 3.3 Test cases
-*screenshots cu test cases din Jira
+ The test cases were created in Zephy Squad, based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing. 
+  The test cases with steps can be accesed at this link:
   
 ### 3.4 Daily test summary report 
 *screenshots cu raportul generat zilnic din Jira 
