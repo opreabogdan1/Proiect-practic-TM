@@ -159,26 +159,26 @@ Verify that the following elements are ready before the test execution phase:
 ### 3.1 Test plan
   
 ### 3.2 Test conditions
-The test conditions created for the ”Job Titles” and ”Pay Grades” modules can be viewed here: [Test conditions](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/test%20conditions.xlsx)
+- The test conditions created for the ”Job Titles” and ”Pay Grades” modules can be viewed here: [Test conditions](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/test%20conditions.xlsx)
   
 ### 3.3 Test cases
- The test cases were created in Zephy Squad, based on the analysis of the specifications. The test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing. 
-  The test cases with steps can be accesed at this link: [Test cases](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Test%20cases%20Job%20Title%20%2B%20Pay%20Grade.pdf)
+- The test cases were created in Zephy Squad, based on the analysis of the specifications. The test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing. 
+- The test cases with steps can be accesed at this link: [Test cases](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Test%20cases%20Job%20Title%20%2B%20Pay%20Grade.pdf)
   
 ### 3.4 Daily test summary report 
-  On April 30, 2023, the testing process began and 6 tests were performed, of which 4 were pass and 2 were fail. On May 2, 2023, 3 tests were run, of which 1 failed and 2 passed. On June 11, 6 tests were run, all of which were passed. The daily test summary report cand be seen below:
+- On April 30, 2023, the testing process began and 6 tests were performed, of which 4 were pass and 2 were fail. On May 2, 2023, 3 tests were run, of which 1 failed and 2 passed. On June 11, 6 tests were run, all of which were passed. The daily test summary report cand be seen below:
  ![Screenshot_2](https://github.com/opreabogdan1/Proiect-practic-TM/assets/128214529/0355cdb0-f864-41d4-a94c-0d6cd589a7b7)
   
 
   
 ### 3.5 Traceability matrix
-The traceability matrix was generated and can be found here: [Traceability Matrix](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Traceability_Matrix.xlsx)
+- The traceability matrix was generated and can be found here: [Traceability Matrix](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Traceability_Matrix.xlsx)
   
 ### 3.6 Test case results
-Test cases are executed on the created test Cycle summary and the results can be seen here: [Test case results](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Test%20case%20execution.pdf)
+- Test cases are executed on the created test Cycle summary and the results can be seen here: [Test case results](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Test%20case%20execution.pdf)
   
 ### 3.7 Bugs report
-Bugs have been created based on the failed tests. The complete bug reports can be seen here: [Bugs report](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Bugs%20report.pdf)
+- Bugs have been created based on the failed tests. The complete bug reports can be seen here: [Bugs report](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Bugs%20report.pdf)
   
 ### 3.8 Test completion report
   
