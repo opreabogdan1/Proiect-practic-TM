@@ -152,11 +152,10 @@ Verify that the following elements are ready before the test execution phase:
  -  The following status report was generated after 40% of the test cases were executed, on 30 April 2023:
   
   ![Test execution by Test Cycle](https://github.com/opreabogdan1/Proiect-practic-TM/assets/128214529/668c1e63-00f4-4581-9bd9-7eccf7b1f53d)
-
   
   
-    ## 3. Test deliverables
-  
+    
+   ## 3. Test deliverables
 ### 3.1 Test plan
   
 ### 3.2 Test conditions
