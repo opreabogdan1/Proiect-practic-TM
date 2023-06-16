@@ -178,7 +178,7 @@ The traceability matrix was generated and can be found here: [Traceability Matri
 Test cases are executed on the created test Cycle summary and the results can be seen here: [Test case results](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Test%20case%20execution.pdf)
   
 ### 3.7 Bugs report
-*screenshots/pdf cu defectele exportate din Jira
+Bugs have been created based on the failed tests. The complete bug reports can be seen here: [Bugs report](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Bugs%20report.pdf)
   
 ### 3.8 Test completion report
   
