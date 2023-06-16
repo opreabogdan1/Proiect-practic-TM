@@ -122,7 +122,7 @@ Product risks:
   
 ### 2.3 Test design
   
-- Functional test cases will be created in Zephyr Squad; 
+- Functional test cases will be created in Zephyr Squad (for more details see chapter 3.2); 
 - GUI test cases will be created in Zephyr Squad;
 - API test cases will be created in Postman; 
 - The test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis. 
@@ -137,8 +137,8 @@ Verify that the following elements are ready before the test execution phase:
   
 ### 2.5 Test execution
  
- - Test cases are executed on the create Cycle summary;
- - Bugs are created based on the failed test cases;
+ - Test cases are executed on the create Cycle summary (for more details see chapter 3.3 and 3.6);
+ - Bugs are created based on the failed test cases (for more details see chapter 3.7);
  - API test cases were executed;
  - Full regression pack are executed.
 
