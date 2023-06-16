@@ -181,7 +181,7 @@ Verify that the following elements are ready before the test execution phase:
 - Bugs have been created based on the failed tests. The complete bug reports can be seen here: [Bugs report](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Bugs%20report.pdf)
   
 ### 3.8 Test completion report
-- Test execution chart was generated ([click here](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Test%20case%20execution.pdf)), the final report shows that 8 tests have failed from a total of 26.
+- Final test execution chart was generated ([click here](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Test%20execution%20report%20FINAL.pdf)), the final report shows that 8 tests have failed from a total of 26.
 - A number of 26 test cases were planned for execution and all of them were executed.
 - In total 8 bugs were found, from which the priority is: 2 is high and 6 are medium.
   
