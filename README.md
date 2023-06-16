@@ -185,9 +185,8 @@ Verify that the following elements are ready before the test execution phase:
 - A number of 26 test cases were planned for execution and all of them were executed.
 - In total 8 bugs were found, from which the priority is: 2 is high and 6 are medium.
   
-### 3.9 Schedule
- 
-Run functional test cases for ”Job Titles” and ”Pay Grades” modules 30.04.2023 Bogdan Ştefan Oprea
+### 3.9 Schedule 
+ - Run functional test cases for ”Job Titles” and ”Pay Grades” modules 30.04.2023 Bogdan Ştefan Oprea
   
 
 
