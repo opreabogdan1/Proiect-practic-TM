@@ -187,7 +187,7 @@ Verify that the following elements are ready before the test execution phase:
   
 ### 3.9 Schedule
  
-Run functional test cases for Job Titles and Pay Grades sub-module 30.04.2023 Bogdan Ştefan Oprea
+Run functional test cases for ”Job Titles” and ”Pay Grades” modules 30.04.2023 Bogdan Ştefan Oprea
   
 
 
