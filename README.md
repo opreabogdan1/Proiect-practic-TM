@@ -172,7 +172,7 @@ The test conditions created for the ”Job Titles” and ”Pay Grades” module
 
   
 ### 3.5 Traceability matrix
-*screenshots cu matricea generate in Jira
+The traceability matrix was generated and can be found here: [Traceability Matrix](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Traceability_Matrix.xlsx)
   
 ### 3.6 Test case results
 *screenshots/pdf  cu rezultatele test case-urilor exportate din Jira
