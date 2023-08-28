@@ -52,7 +52,7 @@
     
    ## 1. Introduction
   
-  This test plan describes the strategies, processes, workflows and methodologies used to plan, organize, execute and manage testing process for **OrangeHRM** browser application. 
+  This test plan describes the strategies, processes, workflows, and methodologies used to plan, organize, execute, and manage the testing process for the **OrangeHRM** browser application. 
   
 ### 1.1 Project objective
   
@@ -187,8 +187,12 @@ Verify that the following elements are ready before the test execution phase:
   
 ### 3.9 Schedule 
   A test schedule includes the testing steps or tasks, the target start and end dates, and responsibilities. It should also describe how the tests will be reviewed, tracked, and approved.
+  
+| Responsibilities |Date| Authors |
+| :-----: | :---: | :---: |:---: |
+|Run functional test cases for the” Job Titles” module | 30.04.2023 | Oprea Bogdan Ștefan|
+|Run functional test cases for the” Pay Grade” module  | 02.05.2023 | Andreea Năstase|
 
- - Run functional test cases for ”Job Titles” and ”Pay Grades” modules   30.04.2023    Bogdan Ştefan Oprea
   
 
 
