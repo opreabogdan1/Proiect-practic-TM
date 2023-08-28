@@ -52,11 +52,11 @@
     
    ## 1. Introduction
   
-  This test plan describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for **OrangeHRM** browser application. 
+  This test plan describes the strategies, processes, workflows and methodologies used to plan, organize, execute and manage testing process for **OrangeHRM** browser application. 
   
 ### 1.1 Project objective
   
-  The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice using a live application. 
+  The scope of the final project for the ITF Manual Testing Course is to use all gained knowledge through the course and apply it in practice using a live application. 
   
   Application under test: https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList 
   
@@ -66,13 +66,13 @@
   
 ### 1.2 Functionalities in scope
   
-  - All features of the ”Job Titles” and ”Pay Grades” modules which were defined in software requirement specs need to be: functional testing, GUI testing, API testing.
+  - All features of the ”Job Titles” and ”Pay Grades” modules defined in software requirement specs must be functional testing, GUI testing, and API testing.
   
 ### 1.3 Functionalities and tests out of scope
   - All OrangeHRM features except the ”Job Titles” and ”Pay Grades” modules ;
-  - Non-functional testing like stress, performance is beyond scope of this project;
-  - No QA support for mobile application developed. Only web application will be tested;
-  - Automation testing is beyond scope.
+  - Non-functional testing like stress, and performance is beyond the scope of this project;
+  - No QA support for mobile application developed. Only web applications will be tested;
+  - Automation testing is beyond the scope.
   
     ## 2. Test process
     
@@ -97,8 +97,8 @@
 #### Exit criteria:
   
 - All test cases have been executed; 
-- The number of unresolved bugs is insignificant or have low priority; 
-- All resolved bugs have been re-tested and closed by QA team; 
+- The number of unresolved bugs is insignificant or has low priority; 
+- All resolved bugs have been re-tested and closed by the QA team; 
 - Deadline was reached; 
 - No detected major risks remained un-mitigated. 
   
@@ -109,7 +109,7 @@ Project risks:
 - Lack of experience of the QA team; 
 - Only one QA in the QA team; 
 - Unavailability of the test environment; 
-- Short deadline of Zephyr Squad and Jira tools.
+- Short deadline for Zephyr Squad and Jira tools.
   
 Product risks:
   
@@ -118,14 +118,14 @@ Product risks:
 ### 2.2 Test analysis
 
 - Analyze business requirements to make sure that we have all the details for creating the test conditions; 
-- Write test conditions that will be tested in out test process.
+- Write test conditions that will be tested in our test process.
   
 ### 2.3 Test design
   
-- Functional test cases will be created in Zephyr Squad (for more details see chapter 3.3); 
+- Functional test cases will be created in Zephyr Squad (for more details see Chapter 3.3); 
 - GUI test cases will be created in Zephyr Squad;
 - API test cases will be created in Postman; 
-- The test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis. 
+- The test design techniques used for generating test cases are equivalence partitioning, boundary value analysis, and state transition testing. 
   
 ### 2.4 Test implementation
   
@@ -137,10 +137,10 @@ Verify that the following elements are ready before the test execution phase:
   
 ### 2.5 Test execution
  
- - Test cases are executed on the create Cycle summary (for more details see chapter 3.3 and 3.6);
- - Bugs are created based on the failed test cases (for more details see chapter 3.7);
+ - Test cases are executed on the create Cycle summary (for more details see Chapters 3.3 and 3.6);
+ - Bugs are created based on the failed test cases (for more details see Chapter 3.7);
  - API test cases were executed;
- - Full regression pack are executed.
+ - Full regression packs are executed.
 
 ### 2.6 Test closure
   
@@ -162,11 +162,11 @@ Verify that the following elements are ready before the test execution phase:
 - The test conditions created for the ”Job Titles” and ”Pay Grades” modules can be viewed here: [Test conditions](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/test%20conditions.xlsx).
   
 ### 3.3 Test cases
-- The test cases were created in Zephy Squad, based on the analysis of the specifications. The test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing; 
-- The test cases with steps can be accesed at this link: [Test cases](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Test%20cases%20Job%20Title%20%2B%20Pay%20Grade.pdf).
+- The test cases were created in Zephyr Squad, based on the analysis of the specifications. The test design techniques used for generating test cases are boundary value analysis, equivalence partitioning, and use case testing; 
+- The test cases with steps can be accessed at this link: [Test cases](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Test%20cases%20Job%20Title%20%2B%20Pay%20Grade.pdf).
   
 ### 3.4 Daily test summary report 
-- On April 30, 2023, the testing process began and 6 tests were performed, of which 4 were pass and 2 were fail. On May 2, 2023, 3 tests were run, of which 1 failed and 2 passed. On June 11, 6 tests were run, all of which were passed. The daily test summary report cand be seen below:
+- On April 30, 2023, the testing process began and 6 tests were performed, of which 4 were pass and 2 were fail. On May 2, 2023, 3 tests were run, of which 1 failed and 2 passed. On June 11, 6 tests were run, all of which were passed. The daily test summary report can be seen below:
  ![Screenshot_2](https://github.com/opreabogdan1/Proiect-practic-TM/assets/128214529/0355cdb0-f864-41d4-a94c-0d6cd589a7b7).
   
 
@@ -181,7 +181,7 @@ Verify that the following elements are ready before the test execution phase:
 - Bugs have been created based on the failed tests. The complete bug reports can be seen here: [Bugs report](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Bugs%20report.pdf).
   
 ### 3.8 Test completion report
-- Final test execution chart was generated ([click here](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Test%20execution%20report%20FINAL.pdf)), the final report shows that 8 tests have failed from a total of 26;
+- The final test execution chart was generated ([click here](https://github.com/opreabogdan1/Proiect-practic-TM/blob/main/Test%20execution%20report%20FINAL.pdf)), the final report shows that 8 tests have failed from a total of 26;
 - A number of 26 test cases were planned for execution and all of them were executed;
 - In total 8 bugs were found, from which the priority is: 2 is high and 6 are medium.
   
