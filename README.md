@@ -189,9 +189,7 @@ Verify that the following elements are ready before the test execution phase:
   A test schedule includes the testing steps or tasks, the target start and end dates, and responsibilities. It should also describe how the tests will be reviewed, tracked, and approved.
   
 | Responsibilities | Date | Authors |
-
-| :-----: | :---: | :---: |:---: |
-
+| :-----: | :---: | :---: |
 |Run functional test cases for the” Job Titles” module | 30.04.2023 | Oprea Bogdan Ștefan|
 |Run functional test cases for the” Pay Grade” module  | 02.05.2023 | Andreea Năstase|
 
